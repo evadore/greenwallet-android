@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/rifattasdemir/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/.cxx/Debug/2z1q232a/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/rifattasdemir/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/.cxx/Debug/2z1q232a/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "keys-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/rifattasdemir/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/.cxx/Debug/2z1q232a/x86",
+        "keys"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "keys",
+      "output": "/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/build/intermediates/cxx/Debug/2z1q232a/obj/x86/libkeys.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,3 @@
+/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/wallet-android-2023-06-30-1936/app/.cxx/Debug/6r4d736c/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/wallet-android-2023-06-30-1936/app/.cxx/Debug/6r4d736c/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/wallet-android-2023-06-30-1936/app/.cxx/Debug/6r4d736c/arm64-v8a/CMakeFiles/keys.dir

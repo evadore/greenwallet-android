@@ -1,0 +1,9 @@
+# ninja log v5
+1	141	701956330	CMakeFiles/keys.dir/keys.c.o	7036f3a86189283
+142	296	701956330	D:/_proje/blockchain/evadore/alpha-wallet-android/app/build/intermediates/cxx/Debug/5b5f96i1/obj/x86_64/libkeys.so	92c2902a222bff67
+1	21	0	clean	edba69329812761b
+0	22	0	clean	edba69329812761b
+0	18	0	clean	edba69329812761b
+1	18	0	clean	edba69329812761b
+5	265	701980011	CMakeFiles/keys.dir/keys.c.o	7036f3a86189283
+265	623	701980011	D:/_proje/blockchain/evadore/alpha-wallet-android/app/build/intermediates/cxx/Debug/5b5f96i1/obj/x86_64/libkeys.so	92c2902a222bff67

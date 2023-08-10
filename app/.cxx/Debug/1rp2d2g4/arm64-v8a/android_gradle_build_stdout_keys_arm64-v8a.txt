@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/__wallet-android-2023-06-30-1936/app/.cxx/Debug/1rp2d2g4/arm64-v8a'
+ninja: no work to do.

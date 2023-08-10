@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\_proje\blockchain\evadore\alpha-wallet-android\app\.cxx\Debug\5b5f96i1\x86_64'
+ninja: no work to do.

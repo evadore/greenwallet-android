@@ -1,0 +1,21 @@
+# ninja log v5
+0	66	1688399466	CMakeFiles/keys.dir/keys.c.o	6186dc294567a7d7
+66	109	1688399466	/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/__wallet-android-2023-06-30-1936/app/build/intermediates/cxx/Debug/1rp2d2g4/obj/arm64-v8a/libkeys.so	7fbd4d0f0f5bb079
+0	15	0	clean	48d775ea97e0389d
+0	9	0	clean	48d775ea97e0389d
+0	72	1688404019	CMakeFiles/keys.dir/keys.c.o	6186dc294567a7d7
+72	173	1688404019	/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/__wallet-android-2023-06-30-1936/app/build/intermediates/cxx/Debug/1rp2d2g4/obj/arm64-v8a/libkeys.so	7fbd4d0f0f5bb079
+0	17	0	clean	48d775ea97e0389d
+0	15	0	clean	48d775ea97e0389d
+0	15	0	clean	48d775ea97e0389d
+0	9	0	clean	48d775ea97e0389d
+1	89	1688416843	CMakeFiles/keys.dir/keys.c.o	6186dc294567a7d7
+89	197	1688416844	/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/__wallet-android-2023-06-30-1936/app/build/intermediates/cxx/Debug/1rp2d2g4/obj/arm64-v8a/libkeys.so	7fbd4d0f0f5bb079
+0	19	0	clean	48d775ea97e0389d
+0	23	0	clean	48d775ea97e0389d
+0	83	1688417787	CMakeFiles/keys.dir/keys.c.o	6186dc294567a7d7
+83	143	1688417787	/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/__wallet-android-2023-06-30-1936/app/build/intermediates/cxx/Debug/1rp2d2g4/obj/arm64-v8a/libkeys.so	7fbd4d0f0f5bb079
+0	11	0	clean	48d775ea97e0389d
+0	26	0	clean	48d775ea97e0389d
+0	85	1688417824	CMakeFiles/keys.dir/keys.c.o	6186dc294567a7d7
+85	212	1688417824	/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/__wallet-android-2023-06-30-1936/app/build/intermediates/cxx/Debug/1rp2d2g4/obj/arm64-v8a/libkeys.so	7fbd4d0f0f5bb079

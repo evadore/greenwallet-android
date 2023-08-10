@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_holder"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/spacing_line"
+        style="@style/Aw.Component.Separator" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingVertical="@dimen/standard_16"
+        android:paddingStart="@dimen/standard_16"
+        android:paddingEnd="@dimen/mini_4">
+
+        <TextView
+            style="@style/Aw.Typography.Label.Widget"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="@integer/widget_label"
+            android:gravity="start|center_vertical"
+            android:text="@string/token_text" />
+
+        <TextView
+            android:id="@+id/text_asset_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/small_12"
+            android:layout_weight="@integer/widget_content"
+            android:gravity="start"
+            tools:text="Self Portrait (2021)" />
+
+        <ImageView
+            android:id="@+id/image_more"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layout_weight="@integer/widget_control"
+            android:background="@color/transparent"
+            android:padding="@dimen/mini_4"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_expand_more"
+            custom:tint="?colorControlNormal" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/standard_16"
+        android:visibility="gone"
+        tools:visibility="visible">
+
+        <ProgressBar
+            android:id="@+id/loading_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/base_24"
+            android:visibility="gone"
+            tools:visibility="visible" />
+
+        <com.alphawallet.app.widget.NFTImageView
+            android:id="@+id/asset_image"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:gravity="center"
+            custom:webview_height="250" />
+
+        <TextView
+            android:id="@+id/text_asset_name_details"
+            style="@style/Aw.Typography.SemiBold"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/small_12"
+            android:layout_weight="@integer/widget_content"
+            tools:text="Self Portrait (2021)" />
+
+        <TextView
+            android:id="@+id/text_asset_description"
+            style="@style/Aw.Typography.Sub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="A narcissist drew herself." />
+    </LinearLayout>
+
+</LinearLayout>

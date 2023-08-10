@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\_proje\\blockchain\\evadore\\alpha-wallet-android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\erdog\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\_proje\\blockchain\\evadore\\alpha-wallet-android\\app\\.cxx\\Debug\\5b5f96i1\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\erdog\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\_proje\\blockchain\\evadore\\alpha-wallet-android\\app\\.cxx\\Debug\\5b5f96i1\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "keys-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\erdog\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\_proje\\blockchain\\evadore\\alpha-wallet-android\\app\\.cxx\\Debug\\5b5f96i1\\arm64-v8a",
+        "keys"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "keys",
+      "output": "D:\\_proje\\blockchain\\evadore\\alpha-wallet-android\\app\\build\\intermediates\\cxx\\Debug\\5b5f96i1\\obj\\arm64-v8a\\libkeys.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

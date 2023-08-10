@@ -1,0 +1,24 @@
+                    Executable : /Users/rifattasdemir/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=/Users/rifattasdemir/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/Users/rifattasdemir/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=/Users/rifattasdemir/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/rifattasdemir/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_C_FLAGS=-DIFKEY=\""da3717f25f824cc1baa32d812386d93f"\" -DOSKEY=\""..."\" -DPSKEY=\"""\" -DASKEY=\""HFDDY5BNKGXBB82DE2G8S64C3C41B76PYI"\" -DWALLETCONNECT_PROJECT_ID=\""40c6071febfd93f4fe485c232a8a4cd9"\"
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/build/intermediates/cxx/Debug/2z1q232a/obj/x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/build/intermediates/cxx/Debug/2z1q232a/obj/x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/.cxx/Debug/2z1q232a/x86_64
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

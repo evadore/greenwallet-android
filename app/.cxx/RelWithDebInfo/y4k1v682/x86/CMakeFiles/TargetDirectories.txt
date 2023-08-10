@@ -1,0 +1,3 @@
+/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/.cxx/RelWithDebInfo/y4k1v682/x86/CMakeFiles/rebuild_cache.dir
+/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/.cxx/RelWithDebInfo/y4k1v682/x86/CMakeFiles/edit_cache.dir
+/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/.cxx/RelWithDebInfo/y4k1v682/x86/CMakeFiles/keys.dir

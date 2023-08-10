@@ -1,0 +1,11 @@
+# ninja log v5
+0	70	1688142335	CMakeFiles/keys.dir/keys.c.o	8c81c40e70d05acf
+70	147	1688142335	/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/build/intermediates/cxx/Debug/2z1q232a/obj/x86/libkeys.so	a74d21466d897017
+0	22	0	clean	48d775ea97e0389d
+0	20	0	clean	48d775ea97e0389d
+0	147	1688142592	CMakeFiles/keys.dir/keys.c.o	8c81c40e70d05acf
+147	293	1688142592	/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/build/intermediates/cxx/Debug/2z1q232a/obj/x86/libkeys.so	a74d21466d897017
+0	10	0	clean	48d775ea97e0389d
+0	10	0	clean	48d775ea97e0389d
+0	101	1688142733	CMakeFiles/keys.dir/keys.c.o	8c81c40e70d05acf
+101	187	1688142733	/Users/rifattasdemir/Desktop/eva_wallet/alpha-wallet-android/app/build/intermediates/cxx/Debug/2z1q232a/obj/x86/libkeys.so	a74d21466d897017

@@ -1,0 +1,7 @@
+Executable : /Users/rifattasdemir/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/rifattasdemir/Desktop/wallet_explorer/eva_wallet/__wallet-android-2023-06-30-1936/app/.cxx/Debug/1rp2d2g4/x86_64
+keys
+jvmArgs : 
+
